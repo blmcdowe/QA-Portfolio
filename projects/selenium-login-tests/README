@@ -1,0 +1,6 @@
+# Selenium Login Tests
+
+Automated login tests built with Selenium WebDriver for a sample web application.  
+These tests validate login functionality including form input, button interaction, and success message verification.
+
+This project highlights proficiency in Selenium for browser automation and functional UI testing.
