@@ -1,5 +1,4 @@
 # QA-Portfolio
-# QA Portfolio
 
 Welcome to my QA engineering portfolio! This repository organizes automated testing projects and tools I’ve built using Python, Playwright, Selenium, and other QA frameworks. It reflects my skills and growth as a test automation engineer.
 
