@@ -9,10 +9,10 @@ Tests are designed to be easy to extend and maintain, demonstrating skills in we
 
 This folder contains scripts to run and manage test suites.
 
-## automated-ui-sorting-check.py
+## run_ui_test.py
 
 - Runs the Hacker News UI tests located in `projects/hacker-news-ui-tests/`.
 - Usage:
 
 ```bash
-python automated-ui-sorting-check.py
+python run_ui_test.py
