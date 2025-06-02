@@ -35,7 +35,7 @@ python run_api_tests.py
 This repository is licensed under the MIT License.
 
 ## Resume
-QA-tailored resume available at  
+QA-tailored resume available at Resume: [`docs/resume.md`](docs/resume.md) 
 
 ## Connect
 GitHub Repository
