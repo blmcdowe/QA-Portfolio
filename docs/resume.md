@@ -70,6 +70,10 @@ At **Cushman & Wakefield**, I led diagnostics and QA documentation efforts for r
 
 ---
 
+## Education *(Purdue Calumet University, obtained in May 2016)
+
+* Mechanical Engineering Technology
+
 ## Certifications *(Careerist, obtained in May 2025)*
 
 * Software QA Engineering Certificate
