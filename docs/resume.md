@@ -70,7 +70,7 @@ At **Cushman & Wakefield**, I led diagnostics and QA documentation efforts for r
 
 ---
 
-## 📜 Certifications *(Careerist, obtained in May 2025)*
+## Certifications *(Careerist, obtained in May 2025)*
 
 * Software QA Engineering Certificate
 * Pytest – Automated Testing
@@ -79,7 +79,7 @@ At **Cushman & Wakefield**, I led diagnostics and QA documentation efforts for r
 
 ---
 
-## 📇 Contact
+## Contact
 
 * **GitHub:** [blmcdowe](https://github.com/blmcdowe)
 * **LinkedIn:** [Byron McDowell](https://linkedin.com/in/byronmcdowell)
