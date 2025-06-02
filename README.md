@@ -15,7 +15,7 @@ Scaffold for REST API testing with Python and `requests`. Includes authenticatio
 
 ---
 
-## ⚙CLI Tools
+## CLI Tools
 
 Located in the [`cli-tools/`](cli-tools/) directory, these Python scripts let you easily run each test suite from the command line:
 
