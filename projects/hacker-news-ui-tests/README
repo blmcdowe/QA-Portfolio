@@ -4,3 +4,15 @@ This project contains automated UI tests for the Hacker News website using Playw
 It verifies key features such as article sorting, navigation, and element presence to ensure a stable user experience.  
 
 Tests are designed to be easy to extend and maintain, demonstrating skills in web automation and test design.
+
+# CLI Tools
+
+This folder contains scripts to run and manage test suites.
+
+## run_hn_tests.py
+
+- Runs the Hacker News UI tests located in `projects/hacker-news-ui-tests/`.
+- Usage:
+
+```bash
+python automated-ui-sorting-check.py
