@@ -4,3 +4,15 @@ Automated login tests built with Selenium WebDriver for a sample web application
 These tests validate login functionality including form input, button interaction, and success message verification.
 
 This project highlights proficiency in Selenium for browser automation and functional UI testing.
+
+# CLI Tools
+
+This folder contains scripts to run and manage test suites.
+
+## run_api_tests.py
+
+- Runs the Selenium Login Tests located in `projects/selenium-login-tests/`.
+- Usage:
+
+```bash
+python run_api_tests.py
