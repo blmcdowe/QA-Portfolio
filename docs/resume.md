@@ -70,7 +70,7 @@ At **Cushman & Wakefield**, I led diagnostics and QA documentation efforts for r
 
 ---
 
-## Education *(Purdue Calumet University, obtained in May 2016)
+## Education *(Purdue Calumet University, obtained in May 2016)*
 
 * Mechanical Engineering Technology
 
