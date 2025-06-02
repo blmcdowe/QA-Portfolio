@@ -26,14 +26,16 @@ Located in the [`cli-tools/`](cli-tools/) directory, these Python scripts let yo
 Usage:
 
 python run_ui_tests.py
+
 python run_selenium_login.py
+
 python run_api_tests.py
 
 ## License
 This repository is licensed under the MIT License.
 
 ## Resume
-QA-tailored resume available at docs/resume.md
+QA-tailored resume available at  Resume: [`docs/resume.md`](docs/resume.md)
 
 ## Connect
 GitHub Repository
