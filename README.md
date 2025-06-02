@@ -6,7 +6,7 @@ Welcome to my QA engineering portfolio! This repository organizes automated test
 
 - Hacker News UI Test Suite (Playwright)  
 - Selenium Login Tests (Browser Automation)  
-- API Test Templates (Coming soon)  
+- API Test Templates (HTTPX)  
 
 ## Tools
 
