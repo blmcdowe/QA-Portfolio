@@ -1,0 +1,6 @@
+# API Tests Template
+
+A starter template for REST API testing using Python and requests or HTTP client libraries.  
+Includes example tests for endpoints, status code checks, and response validation.
+
+This folder serves as a base to build robust API testing suites in future projects.
