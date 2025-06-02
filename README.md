@@ -38,7 +38,7 @@ This repository is licensed under the MIT License.
 QA-tailored resume available at Resume: [`docs/resume.md`](docs/resume.md) 
 
 ## Connect
-GitHub Repository
+Professional Links
 
 [GitHUB](https://github.com/blmcdowe) . [Linkeden](https://www.linkedin.com/in/byronmcdowell/)
 
